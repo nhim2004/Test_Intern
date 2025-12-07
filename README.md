@@ -240,14 +240,7 @@ Hoặc: WaterSort/Generate Levels/Create Levels 21-30
 ```
 Editor: WaterSort/Setup Levels/Calculate & Setup Level Range (11-50)
 ```
-
-### 4. Create Move Limit Panel
-```
-Editor: WaterSort/UI Tools/Create Move Limit Panel in Scene
-Editor: WaterSort/UI Tools/Auto-Assign Panels to UIManager
-```
-
-### 5. Test Game
+### 4. Test Game
 ```
 Play level từ menu hoặc Play scene Game.unity
 ```
